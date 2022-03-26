@@ -14,5 +14,5 @@ Queridos ayudantes, los invito a leer la triste historia que les deje en el Ec1.
 
 ![](img.jpg)
 
-Si ya terminaron de leer, espero que comprendan mi situación, sino igual es solo una actividad de diagnostico.
-Un abrazo jeje
+Si ya terminaron de leer, espero que comprendan mi situación.
+Un abrazo
