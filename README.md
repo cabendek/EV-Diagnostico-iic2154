@@ -8,3 +8,11 @@ Esta evaluación tiene como finalidad evaluar tus capacidades de Git, Github y p
 La entrega es un link con el repositorio público del ejercicio resuelto , el cual debe ser enviado al correo dnmolina@uc.cl con copia al profesor de tu sección, el asunto del mensaje debe ser textual “Entrega EV Diagnostica GIT + (NOMBRE Y APELLIDO)”.
 
 La fecha de entrega MÁXIMA es el día 26 de marzo del presente año.
+
+
+Queridos ayudantes, los invito a leer la triste historia que les deje en el Ec1.ipynb
+
+![](img.jpg)
+
+Si ya terminaron de leer, espero que comprendan mi situación, sino igual es solo una actividad de diagnostico.
+Un abrazo jeje
